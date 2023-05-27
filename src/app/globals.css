@@ -25,3 +25,8 @@ body {
     )
     rgb(var(--background-start-rgb));
 } */
+
+.shadow-custom {
+  box-shadow: 96px 96px 80px rgb(2, 6, 23) inset,  0px -96px 80px rgb(2, 6, 23) inset;;
+}
+ 
